@@ -1,4 +1,5 @@
-### CPP-Integral-Autoboxer
+CPP-INTEGRAL
+============
 Component to autobox any C++ integral type
 
 ### Main Intent
